@@ -1,6 +1,10 @@
 # fighter_Ethan's Modpack
+
+## IMPORTANT: I know I last updated this for 1.16.5, but... it's now for 1.19! Mods with an asterick next to it (\*) are still outdated for 1.18.2.
+
+
 Here is my modpack, which I will update regularly! Feel free to install all or some of these mods.
-Currently, the version they are all compatible for is 1.16.5 on Fabric! NOTE: Do not forget to install the dependencies listed BELOW the main mods.
+Currently, the version they are all compatible for is 1.19 on Fabric! NOTE: Do not forget to install the dependencies listed BELOW the main mods.
 
 
 ## Mods Themselves
