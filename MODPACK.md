@@ -25,7 +25,7 @@ Currently, the version they are all compatible for is 1.19 on Fabric! NOTE: Do n
 | Roughly Enough Items (REI) | Clean and Customizable. An easy way to browse recipes. | https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items |
 | Shulker Box Tooltip | This mod allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift. | https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip |
 | Sodium | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | https://www.curseforge.com/minecraft/mc-mods/sodium |
-| ToroHealth Damage Indicators | With ToroHealth Damage Indicators a health bar will appear in the top left corner for the entity in the player's crosshairs. | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
+| ToroHealth Damage Indicators* | With ToroHealth Damage Indicators a health bar will appear in the top left corner for the entity in the player's crosshairs. | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
 
 ## Dependency Mods
 | Mod Name   | Link   |
