@@ -21,7 +21,7 @@ Currently, the version they are all compatible for is 1.19 on Fabric! NOTE: Do n
 | Lithium | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. | https://www.curseforge.com/minecraft/mc-mods/lithium |
 | Mod Menu | Adds a screen for viewing a list of installed mods. | https://www.curseforge.com/minecraft/mc-mods/modmenu |
 | Not Enough Crashes | Not Enough crashes is a Minecraft mod that improves crashes in Minecraft. | https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes |
-| OK Zoomer | Ok Zoomer is a mod that adds a configurable feature-packed zoom key, which allows for zooming. | https://www.curseforge.com/minecraft/mc-mods/ok-zoomer |
+| OK Zoomer* | Ok Zoomer is a mod that adds a configurable feature-packed zoom key, which allows for zooming. | https://www.curseforge.com/minecraft/mc-mods/ok-zoomer |
 | Roughly Enough Items (REI) | Clean and Customizable. An easy way to browse recipes. | https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items |
 | Shulker Box Tooltip | This mod allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift. | https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip |
 | Sodium | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | https://www.curseforge.com/minecraft/mc-mods/sodium |
