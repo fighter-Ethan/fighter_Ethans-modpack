@@ -20,7 +20,7 @@ Currently, the version they are all compatible for is 1.20.1 on Fabric! NOTE: Do
 | OK Zoomer | Ok Zoomer is a mod that adds a configurable feature-packed zoom key, which allows for zooming. | https://www.curseforge.com/minecraft/mc-mods/ok-zoomer |
 | Roughly Enough Items (REI) | Clean and Customizable. An easy way to browse recipes. | https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items |
 | Shulker Box Tooltip | This mod allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift. | https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip |
-| Sodium | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | https://www.curseforge.com/minecraft/mc-mods/sodium |
+| Sodium | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | https://modrinth.com/mod/sodium |
 | ToroHealth Damage Indicators* | With ToroHealth Damage Indicators a health bar will appear in the top left corner for the entity in the player's crosshairs. | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
 
 ## Dependency Mods
