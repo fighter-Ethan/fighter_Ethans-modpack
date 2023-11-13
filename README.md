@@ -15,7 +15,7 @@ Currently, the version they are all compatible for is 1.20.1 on Fabric! NOTE: Do
 | Inventory Profiles Next | Inventory Profiles is a client side mod that helps you organize and sort your inventory or chests. Multiplayer is supported and no any mods is required for the server. | https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next |
 | LazyDFU | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so. | https://modrinth.com/mod/lazydfu |
 | Lithium | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. | https://www.curseforge.com/minecraft/mc-mods/lithium |
-| Mod Menu | Adds a screen for viewing a list of installed mods. | https://www.curseforge.com/minecraft/mc-mods/modmenu |
+| Mod Menu | Adds a screen for viewing a list of installed mods. | https://modrinth.com/mod/modmenu/ |
 | Not Enough Crashes | Not Enough crashes is a Minecraft mod that improves crashes in Minecraft. | https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes |
 | OK Zoomer* | Ok Zoomer is a mod that adds a configurable feature-packed zoom key, which allows for zooming. | https://www.curseforge.com/minecraft/mc-mods/ok-zoomer |
 | Roughly Enough Items (REI) | Clean and Customizable. An easy way to browse recipes. | https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items |
