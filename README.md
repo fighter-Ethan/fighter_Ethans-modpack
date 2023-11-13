@@ -1,7 +1,5 @@
 # fighter_Ethan's Modpack
 
-## IMPORTANT: I know I last updated this for 1.16.5, but... it's now for 1.19! Mods with an asterick next to it (\*) are still outdated for 1.18.2.
-
 
 This is my modpack, which I will update regularly! Feel free to install all or some of these mods.
 Currently, the version they are all compatible for is 1.20.1 on Fabric! NOTE: Do not forget to install the dependencies listed BELOW the main mods.
@@ -14,7 +12,6 @@ Currently, the version they are all compatible for is 1.20.1 on Fabric! NOTE: Do
 | Cull Leaves | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | https://www.curseforge.com/minecraft/mc-mods/cull-leaves |
 | Easier Villager Trading | This mod speeds up trading with villagers a lot, by changing the meaning of the buttons in the trade selection GUI. | https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading |
 | Grid | This mod displays a grid-like overlay over the world, with configurable spacing, so the blocks you're interested in get highlighted automatically. | https://www.curseforge.com/minecraft/mc-mods/grid/files/3193606 |
-| HUDTweaks* | A fabric mod that adds better customization to the HUD. | https://www.curseforge.com/minecraft/mc-mods/hudtweaks |
 | Hydrogen* | Reduces the memory usage of the game in more modded scenarios | https://modrinth.com/mod/hydrogen |
 | Inventory Profiles Next | Inventory Profiles is a client side mod that helps you organize and sort your inventory or chests. Multiplayer is supported and no any mods is required for the server. | https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next |
 | LazyDFU | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so. | https://modrinth.com/mod/lazydfu |
